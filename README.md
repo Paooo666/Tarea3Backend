@@ -13,7 +13,7 @@ En la carpeta donde están los archivos del servidor abre la terminal y ejecuta
 
 ---
 
-##¿Cómo funciona?
+## ¿Cómo funciona?
 
 Al iniciar la aplicación verás unos campos donde ingresarás un **usuario** y su **contraseña**.  
 Después deberás dar clic en **"Registrar"**.
