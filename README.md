@@ -10,7 +10,9 @@ En la carpeta donde están los archivos del servidor abre la terminal y ejecuta
 <p align="center">
 <img width="526" alt="image" src="https://github.com/user-attachments/assets/390639fa-2d9e-427e-b361-7049248915a4" />
 </p>
+
 ---
+
 ##¿Cómo funciona?
 
 Al iniciar la aplicación verás unos campos donde ingresarás un **usuario** y su **contraseña**.  
