@@ -2,8 +2,15 @@
 
 Primero se tendrá que inicializar el servidor en Docker.
 
----
+<p align="center">
+<img width="766" alt="image" src="https://github.com/user-attachments/assets/ad5b3801-b0e1-40b2-9a71-c81c20eed690" />
+</p>
 
+En la carpeta donde están los archivos del servidor abre la terminal y ejecuta
+<p align="center">
+<img width="526" alt="image" src="https://github.com/user-attachments/assets/390639fa-2d9e-427e-b361-7049248915a4" />
+</p>
+---
 ##¿Cómo funciona?
 
 Al iniciar la aplicación verás unos campos donde ingresarás un **usuario** y su **contraseña**.  
